@@ -1,0 +1,19 @@
+
+SQL 실습예제 Practice 1 ~ 4을 수행하면서 다음과 같이 spool하여 제출합니다.
+
+- 실습 시작 전 Spool 설정
+SQL> spool file_name 
+SQL> 실습진행
+- 실습 종료 전 Spool 종료
+SQL> spool off
+SQL> exit
+
+현재 디렉토리에 생성된 spool file(확장자가 lst)을 윈도우로 복사한 후 편집합니다.
+편집도구는 워드, 메모장 등 자유롭게 사용합니다.
+제출하는 파일의 이름 형식은 학생이름_번호로 합니다.(예. 홍길동_번호)
+제출할 파일이 여러개이면 학생이름.zip파일로 압축해서 제출하시기 바랍니다.
+제출기한은 1월 26일(금요일) PM 11:00 입니다.
+제출기한이 지나면 드라이브 공유를 해제할 예정이오니 제출기한을 엄수해 주시기 바랍니다.
+제출 시 사용할 구글 드라이브 주소는 다음과 같습니다.
+
+https://drive.google.com/drive/folders/1in7H86F3TsxzluW_brQjvuVLo3_x50na?usp=sharing
